@@ -17,7 +17,7 @@ Neste projeto em React.JS clonamos a interface do Twitter.
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Rocketseat-Twitter-Clone?node-id=1%3A2>
+<a href="https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Rocketseat-Twitter-Clone?node-id=1%3A2">
   <img alt="Made by Rafael Ramires" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
