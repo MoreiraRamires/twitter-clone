@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Discord" title="Interface do Discord com ReactJS" src="./assets/banner.png" />
+    <img alt="Twitter" title="Interface do Twitter com ReactJS" src="./assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
-	Interface do Discord com ReactJS
+	Interface do Twitter com ReactJS
 </h4>
 
 <p align="center">
