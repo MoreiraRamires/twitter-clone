@@ -1,46 +1,65 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="Discord" title="Interface do Discord com ReactJS" src="./assets/banner.png" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center"> 
+	Interface do Discord com ReactJS
+</h4>
 
-## Available Scripts
+<p align="center">
+	
+## 💻 Sobre o Projeto
+Neste projeto em React.JS clonamos a interface do Twitter.
 
-In the project directory, you can run:
+#### A aplicação foi criada seguindo a videoaula [Twitter Responsivo com ReactJS | UI Clone #6](https://www.youtube.com/watch?v=K-8z_4xvT3o) disponíbilizada pela Rocketseat.
+  
+## 🎨 Layout
 
-### `yarn start`
+O layout da aplicação está disponível no Figma:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<a href="https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Rocketseat-Twitter-Clone?node-id=1%3A2>
+  <img alt="Made by Rafael Ramires" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠 Tecnologias
+Abaixo segue o que foi utilizado na criação deste projeto:
 
-### `yarn test`
+o de código consistente entre diferentes editores, IDE's ou ambientes;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
+- [Styled-components](https://styled-components.com/)
+</p>
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Como executar o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Copie ou clone os arquivos deste repositório para uma pasta local.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Acesse a pasta local do projeto através de um terminal e faça a instalação das dependências usando o comando:
+```sh
+$ npm install
+```
 
-### `yarn eject`
+1. Ainda na pasta local do projeto execute o comando:
+```sh
+$ npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+A aplicação é geralmente iniciada no endereço: `http://localhost:3000` e utiliza dados estáticos que estão em um array no arquivo `api.js` na pasta `services`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 😯 Como contribuir para o projeto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto esta sobe a licença MIT.
+
+Feito com ❤️ por Rafael Ramires 👋🏽 [Entre em contato!](https://www.linkedin.com/in/rafael-ramires-791aa378/)
