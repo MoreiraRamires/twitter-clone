@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Twitter" title="Interface do Twitter com ReactJS" src="./assets/banner.png" />
+    <img alt="Twitter" title="Interface do Twitter com ReactJS" src="./src/assets/banner.png" />
 </h1>
 
 <h4 align="center"> 
